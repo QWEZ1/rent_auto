@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+}
+
+.rent {
+    background-color: #0c0f12;
+    color: white;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+.title {
+    color: #FFF;
+    font-style: italic;
+}
+
+span {
+    color: hwb(56 6% 15%);
+}
